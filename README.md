@@ -1,2 +1,2 @@
 # techie_sujesh-demo
-this is my first code
+this is my first Git repository
